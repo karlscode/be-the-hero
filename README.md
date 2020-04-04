@@ -1,5 +1,5 @@
 ### <strong> <p align="center">Semana OmniStack</strong>
-
+<br>
 <h4 align="center">
 <img src="./mobile/src/assets/logo@3x.png" width="250px" /><br><br>
 <b>Seja um verdadeiro Heroi!</b>
