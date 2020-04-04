@@ -1,5 +1,3 @@
-# <p align="center">Semana OmniStack
-
 <h4 align="center">
 <img src="./mobile/src/assets/logo@3x.png" width="250px" /><br><br>
 <b>Seja um verdadeiro Heroi!</b>
@@ -10,8 +8,8 @@
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
-
----
+<br>
+# <p align="center">Semana OmniStack
 
 ## :bulb: Projeto
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, sendo você o grande herói. Você poderá ver os casos onde poderá ajudar e escolher em qual deles deseja contribuir com sua doação.
