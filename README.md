@@ -1,4 +1,4 @@
-<h2><strong> <p align="center">Semana OmniStack</strong>
+### <strong> <p align="center">Semana OmniStack</strong>
 
 <h4 align="center">
 <img src="./mobile/src/assets/logo@3x.png" width="250px" /><br><br>
