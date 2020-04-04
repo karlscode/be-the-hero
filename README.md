@@ -10,11 +10,9 @@
 </p>
 
 
-# Semana OmniStack 11.0
-  * Be The Hero project.
+# <p align="center">Semana OmniStack
 
 ### :muscle: Projeto
-
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, sendo você o grande herói. Você poderá ver os casos onde poderá ajudar e escolher em qual deles deseja contribuir com sua doação.
 
 ### Ainda sobre o projeto...
@@ -43,15 +41,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### Onde encontrar?
 
 * Backend
-
 Veja como o Backend funciona e como usar nesta página: [Backend](https://github.com/karlscode/Be-The-Hero/tree/master/backend)
 
 * Frontend
-
 Veja como o Frontend funciona e como usar nesta página: [Frontend](https://github.com/karlscode/Be-The-Hero/tree/master/frontend)
 
 * Mobile APP
-
 Veja como o App Mobile funciona e como usar nesta página: [Mobile](https://github.com/karlscode/Be-The-Hero/tree/master/mobile)
 
 ### :mortar_board: Quem ministrou?
