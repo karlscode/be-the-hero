@@ -9,7 +9,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 <br>
-# <p align="center">Semana OmniStack
+
+<strong> <h1><p align="center">Semana OmniStack</strong>
 
 ## :bulb: Projeto
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, sendo você o grande herói. Você poderá ver os casos onde poderá ajudar e escolher em qual deles deseja contribuir com sua doação.
