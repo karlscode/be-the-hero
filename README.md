@@ -40,13 +40,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :mag_right: Onde encontrar?
 
 ### Backend
-Veja como o Backend funciona e como usar nesta página: [Backend](https://github.com/karlscode/Be-The-Hero/tree/master/backend)
+- Veja como o Backend funciona e como usar nesta página: [Backend](https://github.com/karlscode/Be-The-Hero/tree/master/backend)
 
 ### Frontend
-Veja como o Frontend funciona e como usar nesta página: [Frontend](https://github.com/karlscode/Be-The-Hero/tree/master/frontend)
+- Veja como o Frontend funciona e como usar nesta página: [Frontend](https://github.com/karlscode/Be-The-Hero/tree/master/frontend)
 
 ### Mobile APP
-Veja como o App Mobile funciona e como usar nesta página: [Mobile](https://github.com/karlscode/Be-The-Hero/tree/master/mobile)
+- Veja como o App Mobile funciona e como usar nesta página: [Mobile](https://github.com/karlscode/Be-The-Hero/tree/master/mobile)
 
 ## :mortar_board: Quem ministrou?
 
