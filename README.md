@@ -22,6 +22,7 @@ Este projeto faz parte da Semana OmniStack fornecida por [Rocketseat] (https://r
 - [Node](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 <br><br>
 
 ## :rocket: Tecnologias usadas
@@ -62,7 +63,7 @@ A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 <br><br>
 
-## E agora? 
+## 🤔 E agora? 
 
 Como objetivo pessoal, não dou este projeto como finalizado. Aplicarei neste, melhorias ao longo da minha evolução como desenvolvedor.
 <br><br><br>
