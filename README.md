@@ -9,7 +9,10 @@
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+  <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-red"> -->
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
 </p>
 
 ## :bulb: Projeto
