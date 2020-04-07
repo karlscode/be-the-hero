@@ -3,15 +3,21 @@
 <h4 align="center">
 <img src="./mobile/src/assets/logo@3x.png" width="250px" /><br><br>
 <b>Seja um verdadeiro Heroi!</b>
-</h4>
-<p align="center">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-launchbase-02?color=purple">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
-  </a>
-  <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-red"> -->
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+</h4>
+
+<p align="center">
+  <a href="">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/Be-The-Hero?color=red">
+  </a>
+
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+  </a>
+
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+  </a>
 
 </p>
 
