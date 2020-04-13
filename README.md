@@ -71,13 +71,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :mag_right: Onde encontrar?
 
-### Backend
+### :keyboard: Backend
 - Veja como o Backend funciona e como usar nesta página: [Backend](https://github.com/karlscode/Be-The-Hero/tree/master/backend)
 
-### Frontend
+### 💻 Frontend
 - Veja como o Frontend funciona e como usar nesta página: [Frontend](https://github.com/karlscode/Be-The-Hero/tree/master/frontend)
 
-### Mobile APP
+### :iphone: Mobile APP
 - Veja como o App Mobile funciona e como usar nesta página: [Mobile](https://github.com/karlscode/Be-The-Hero/tree/master/mobile)
 <br><br>
 
