@@ -43,7 +43,7 @@
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, sendo você o grande herói. Você poderá ver os casos onde poderá ajudar e escolher em qual deles deseja contribuir com sua doação.
 <br><br>
 ## :balloon: Ainda sobre o projeto...
-Este projeto faz parte da Semana OmniStack fornecida por [Rocketseat] (https://rocketseat.com.br/). Nesta semana, o ponto principal é ensinar como criar uma aplicação Fullstack. Por isso, é ensinado NodeJS, React e React Native para lidar com todas as partes de um projeto completo.
+Este projeto faz parte da Semana OmniStack fornecida por [Rocketseat](https://rocketseat.com.br/). Nesta semana, o ponto principal é ensinar como criar uma aplicação Fullstack. Por isso, é ensinado NodeJS, React e React Native para lidar com todas as partes de um projeto completo.
 <br><br>
 
 ## :muscle: Como foi construído?
