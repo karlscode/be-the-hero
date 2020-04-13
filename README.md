@@ -37,8 +37,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
-
 ## :bulb: Projeto
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, sendo você o grande herói. Você poderá ver os casos onde poderá ajudar e escolher em qual deles deseja contribuir com sua doação.
 <br><br>
