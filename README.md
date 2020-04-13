@@ -21,21 +21,22 @@
 
 </p>
 
-<p alingn="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
-</p>
-
-<br>
-
 <p align="center">
   <a href="#bulb-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#muscle-como-foi-construido">Como foi construído</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#muscle-como-foi-construído">Como foi construído</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias-usadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mag_right-onde-encontrar">Onde encontrar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mag_right-onde-encontrar">Quem ministrou</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-e-agora">E agora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<br>
+
+<p alingn="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
+
 
 ## :bulb: Projeto
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, sendo você o grande herói. Você poderá ver os casos onde poderá ajudar e escolher em qual deles deseja contribuir com sua doação.
